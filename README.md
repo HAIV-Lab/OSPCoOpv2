@@ -37,17 +37,13 @@ Bg-Bench
 
 - Images under`Bg/images` are pure background samples with all foreground objects removed, served as OOD test data\.
 
-- `ID/test` folder provides matched in\-distribution samples for calculating standard OOD metrics \(AUROC, FPR95\)\.
+- `ID/test` folder provides matched in\-distribution samples.
 
-#### 2\. Multimodal Hallucination Evaluation
+#### 2\.  Hallucination Evaluation
 
 - Target folder: `Hallucination`
 
 - Contains multi\-domain test images divided into CIFAR, ImageNet, OES and coco\-hard subfolders\.
 
-- `cifar_dataset.json` stores complete ground\-truth labels for evaluating object hallucination of multimodal large language models\.
+- `xxxx.json` stores complete ground\-truth labels for evaluating object hallucination of multimodal large language models\.
 
-
-```
-
-> （注：部分内容可能由 AI 生成）

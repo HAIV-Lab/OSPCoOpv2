@@ -8,7 +8,7 @@ The official code repository for **"Bg\-Bench: Benchmarking OOD Background Inter
 
 Full dataset \(Version 1, 2\.5 GB\) is hosted on Kaggle:
 
-[https://www\.kaggle\.com/datasets/xiangexiang/bg\-bench/data](https://www.kaggle.com/datasets/xiangexiang/bg-bench/data)
+[Dataset: Bg-Bench](https://www.kaggle.com/datasets/xiangexiang/bg-bench/data)
 
 ### Directory Structure
 
